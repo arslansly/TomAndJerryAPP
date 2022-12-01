@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "19FA6522-FA4E-4503-B562-EFB45E8B966A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA29348C-4940-41E6-9040-EF08008D9021"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TomAndJerryApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DA29348C-4940-41E6-9040-EF08008D9021 - bc45afdd502034fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry1.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DA29348C-4940-41E6-9040-EF08008D9021 - 714f2539116160ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry1.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DA29348C-4940-41E6-9040-EF08008D9021 - 467a93f87c754fff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry1.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DA29348C-4940-41E6-9040-EF08008D9021 - f97fdd100f234019"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry1.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DA29348C-4940-41E6-9040-EF08008D9021 - 7dcd045772c2f37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TomAndJerryApp.ViewController"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "DA29348C-4940-41E6-9040-EF08008D9021 - 82c0bc0543970326"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TomAndJerryApp.ViewController&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D52DFB5-14AF-4E59-BD63-F0E7D864B5E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TomAndJerryApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2D52DFB5-14AF-4E59-BD63-F0E7D864B5E5 - 95765696e888a6a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry3.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2D52DFB5-14AF-4E59-BD63-F0E7D864B5E5 - 4a03ecf2a9c812ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry3.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2D52DFB5-14AF-4E59-BD63-F0E7D864B5E5 - 5f2f5ab014ddf9bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry3.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2D52DFB5-14AF-4E59-BD63-F0E7D864B5E5 - f97fdd100f23405f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.jerry3.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2D52DFB5-14AF-4E59-BD63-F0E7D864B5E5 - 7dcd045772c2f33c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TomAndJerryApp.ViewController"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "2D52DFB5-14AF-4E59-BD63-F0E7D864B5E5 - 82c0bc0543970360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TomAndJerryApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TomAndJerryApp.ViewController&gt;"
+                  moduleName = "TomAndJerryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suleyman/Desktop/TomAndJerryApp/TomAndJerryApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
